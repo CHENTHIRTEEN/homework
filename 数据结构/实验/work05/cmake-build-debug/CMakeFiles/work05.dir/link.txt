@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/work05.dir/kmp.cpp.o  -o work05 

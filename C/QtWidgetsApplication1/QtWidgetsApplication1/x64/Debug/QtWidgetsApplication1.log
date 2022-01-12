@@ -1,0 +1,10 @@
+﻿main.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QNetworkRequest::QNetworkRequest(class QUrl const &)" (__imp_??0QNetworkRequest@@QEAA@AEBVQUrl@@@Z)，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QNetworkRequest::~QNetworkRequest(void)" (__imp_??1QNetworkRequest@@QEAA@XZ)，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QNetworkAccessManager::QNetworkAccessManager(class QObject *)" (__imp_??0QNetworkAccessManager@@QEAA@PEAVQObject@@@Z)，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl QNetworkAccessManager::~QNetworkAccessManager(void)" (__imp_??1QNetworkAccessManager@@UEAA@XZ)，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QNetworkReply * __cdecl QNetworkAccessManager::get(class QNetworkRequest const &)" (__imp_?get@QNetworkAccessManager@@QEAAPEAVQNetworkReply@@AEBVQNetworkRequest@@@Z)，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QNetworkReply::finished(void)" (__imp_?finished@QNetworkReply@@QEAAXXZ)，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static struct QMetaObject const QNetworkReply::staticMetaObject" (__imp_?staticMetaObject@QNetworkReply@@2UQMetaObject@@B)，函数 "public: static class QMetaObject::Connection __cdecl QObject::connect<void (__cdecl QNetworkReply::*)(void),void (__cdecl QEventLoop::*)(void)>(class QNetworkReply const *,void (__cdecl QNetworkReply::*)(void),class QEventLoop const *,void (__cdecl QEventLoop::*)(void),enum Qt::ConnectionType)" (??$connect@P8QNetworkReply@@EAAXXZP8QEventLoop@@EAAXXZ@QObject@@SA?AVConnection@QMetaObject@@PEBVQNetworkReply@@P83@EAAXXZPEBVQEventLoop@@P84@EAAXXZW4ConnectionType@Qt@@@Z) 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      "__declspec(dllimport) public: static struct QMetaObject const QMainWindow::staticMetaObject" (__imp_?staticMetaObject@QMainWindow@@2UQMetaObject@@B)
+C:\Users\10303\Desktop\homework\C\QtWidgetsApplication1\x64\Debug\QtWidgetsApplication1.exe : fatal error LNK1120: 7 个无法解析的外部命令

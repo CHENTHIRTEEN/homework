@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/10303/Desktop/数据结构/实验/07/main.cpp
+iostream
+-
+tree.h
+/mnt/c/Users/10303/Desktop/数据结构/实验/07/tree.h
+
+/mnt/c/Users/10303/Desktop/数据结构/实验/07/tree.h
+

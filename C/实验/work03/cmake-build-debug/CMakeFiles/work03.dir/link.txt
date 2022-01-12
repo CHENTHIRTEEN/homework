@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/work03.dir/2.3.cpp.o  -o work03 

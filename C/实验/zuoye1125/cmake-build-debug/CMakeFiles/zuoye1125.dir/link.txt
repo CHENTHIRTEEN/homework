@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/zuoye1125.dir/main.cpp.o  -o zuoye1125 

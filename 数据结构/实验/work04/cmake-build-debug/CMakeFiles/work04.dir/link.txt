@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/work04.dir/main.cpp.o  -o work04 

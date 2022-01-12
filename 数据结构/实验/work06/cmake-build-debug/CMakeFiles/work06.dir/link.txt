@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/work06.dir/demo.cpp.o  -o work06 

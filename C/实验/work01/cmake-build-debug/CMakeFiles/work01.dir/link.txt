@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/work01.dir/5.cpp.o  -o work01 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/work03.dir/Hanoi.cpp.o  -o work03 

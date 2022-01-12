@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/demo.dir/main.cpp.o CMakeFiles/demo.dir/绪论/bubblesort1A.cpp.o  -o demo 
